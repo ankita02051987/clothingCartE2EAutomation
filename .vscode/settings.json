@@ -1,0 +1,14 @@
+{
+    "cucumberautocomplete.steps": [
+      "features/steps/*.js"
+    ],
+    "cucumberautocomplete.syncfeatures": "features/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.smartSnippets": true,
+    "cucumberautocomplete.snippetsKeywords": [
+      "Given",
+      "When",
+      "Then"
+    ]
+  }
+  

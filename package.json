@@ -1,0 +1,16 @@
+{
+  "name": "clothihngcarte2eautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test":  "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "playwright": "^1.52.0"
+  }
+}
